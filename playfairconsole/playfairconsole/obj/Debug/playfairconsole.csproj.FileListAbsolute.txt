@@ -1,0 +1,6 @@
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\bin\Debug\playfairconsole.exe.config
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\bin\Debug\playfairconsole.exe
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\bin\Debug\playfairconsole.pdb
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\obj\Debug\playfairconsole.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\obj\Debug\playfairconsole.exe
+C:\Users\Islam\Desktop\Project_C#\playfairconsole\playfairconsole\obj\Debug\playfairconsole.pdb
